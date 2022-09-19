@@ -1,4 +1,4 @@
-- Howdy, I’m @WestonMarek
+- Howdy, I’m @WM
 I am working mostly in Python on a variety of projects. Some may be updated here, however, most will not be. 
 The work that I'm doing all pertains to GIS or small scripts for hobbies. 
 
